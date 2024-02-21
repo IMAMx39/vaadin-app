@@ -1,0 +1,8 @@
+@import url('./main-layout.css');
+@import url('./views/checkout-form-view.css');
+@import url('./views/gridwith-filters-view.css');    html {
+      --lumo-border-radius-s: 1px;
+      --lumo-border-radius-m: 2px;
+      --lumo-border-radius-l: 4px;
+
+    }
